@@ -11,6 +11,7 @@
     "typescript": "^5.9.3"
   },
   "scripts": {
+    "start": "bun run index.ts",
     "build": "bun build ./index.ts --compile --minify --outfile nyaa",
     "postinstall": "bun2nix -o bun.nix"
   },
