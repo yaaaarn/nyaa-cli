@@ -16,7 +16,7 @@ add to your `flake.nix` inputs:
 
 ```nix
 nyaa-cli = {
-  url = "github:noaanext/nyaa-cli";
+  url = "github:yaaaarn/nyaa-cli";
   inputs.nixpkgs.follows = "nixpkgs";
 };
 ```
