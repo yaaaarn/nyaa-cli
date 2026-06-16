@@ -72,7 +72,7 @@ nyaa open <id>
 
 ```bash
 # enter the dev shell (if using nix)
-nix-shell
+nix develop
 
 # install dependencies
 bun install
