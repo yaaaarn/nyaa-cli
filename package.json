@@ -21,7 +21,4 @@
     "cheerio": "^1.2.0",
     "commander": "^15.0.0"
   },
-  "trustedDependencies": [
-    "nyaa-ts"
-  ]
 }
